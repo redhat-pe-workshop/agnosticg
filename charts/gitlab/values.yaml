@@ -36,6 +36,8 @@ gitlab:
           url: https://github.com/redhat-pe-workshop/rhdh-template-quarkus-simple.git
         - name: parasol-store-dev-template
           url: https://github.com/redhat-pe-workshop/parasol-store-dev-templates.git
+        - name: parasol-store-dev-template-secure
+          url: https://github.com/redhat-pe-workshop/parasol-store-dev-template-secured.git
         - name: developer-hub-config
           url: https://github.com/redhat-pe-workshop/developer-hub-config.git
         - name: import-existing-app-template
