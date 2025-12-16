@@ -159,4 +159,5 @@ vault:
   namespace: vault
 
 orchestrator:
-  namespace: orchestrator
+  # As of RHDH 1.8.0, the orchestrator namespace is in the RHDH (backstage) namespace
+  namespace: backstage
